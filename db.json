@@ -1,0 +1,29 @@
+{
+"posts":[
+{							
+"codeReseau":"1234",					
+"numeroMarche":"hola",					
+	"metadata":{					
+		"dateHeureMaj":"2020-05-25T18:40:00",			
+		"idVersion":"1.0"	
+			},		
+	"varSillon":"blablablablabla",					
+	"marqueurType":"tyo",					
+	"pariteMarche":"test 1",									
+	"codeUI":2437376288,										
+	"horaireOrigine":"2020-05-25T19:40:00",			
+	"horaireDestination":"2020-05-25T23:40:00",				
+	"lieuOrigine":{					
+		"crcich":"3578",				
+		"libPr":"Paris"				
+	},					
+	"lieuDestination":{					
+		"crcich":"222",		
+		"libPr":"Marseille"			
+	}					
+}
+]
+}
+
+					
+							

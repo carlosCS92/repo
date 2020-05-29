@@ -1,5 +1,5 @@
 {
-"posts":[
+"posts":
 {							
 "codeReseau":"1234",					
 "numeroMarche":"hola",					
@@ -22,7 +22,6 @@
 		"libPr":"Marseille"			
 	}					
 }
-]
 }
 
 					

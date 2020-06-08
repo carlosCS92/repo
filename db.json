@@ -1,11 +1,11 @@
 {"sillons":[
-	{"codeReseau":"0087",
+	{
 	"numeroMarche":"49210",
 	"pariteMarche":"49211",
+	"id": "b79f2a3f-3c66-4fd4-8c31-410e9a056c19",
 	"horaireOrigine":"2020-04-05T13:02:00.000Z",
 	"horaireDestination":"2020-04-06T06:05:00.000Z",
 	"codeUi":2170,
-	"codeTct":"FMC",
 	"lieuOrigine":{
 		"crcich":"0087;785006;PF",
 		"libPr":"Cerbère Poste F"
@@ -19,9 +19,10 @@
 		"dateHeureMaj":"2020-03-11T06:33:50.159Z"
 		}
 	},
-	{"codeReseau":"0087",
+	{
 	"numeroMarche":"871410",
 	"pariteMarche":"49561",
+	"id": "b79f2a3f-3c66-4fd4-9102-410e9a05",
 	"horaireOrigine":"2020-04-05T13:02:00.000Z",
 	"horaireDestination":"2020-04-06T06:05:00.000Z",
 	"codeUi":2170,

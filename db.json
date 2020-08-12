@@ -1,47 +1,52 @@
-{"sillons":[
-	{
-	"numeroMarche":"99999",
-	"pariteMarche":"49211",
-	"id": "b79f2a3f-3c66-4fd4-8c31-410e9a056c19",
-	"horaireOrigine":"2020-04-05T13:02:00.000Z",
-	"horaireDestination":"2020-04-06T06:05:00.000Z",
-	"codeUi":2170,
-	"codeTct":"AMC",
-	"lieuOrigine":{
-		"crcich":"0087;785006;PF",
-		"libPr":"Cerbère Poste F"
-		},
-	"lieuDestination":{
-		"crcich":"0087;193003;BV",
-		"libPr":"Forbach Bâtiment Voyageurs"
-		},
-	"metadata":{
-		"idVersion":3,
-		"dateHeureMaj":"2020-03-11T06:33:50.159Z"
-		}
-	},
-	{
-	"numeroMarche":"871410",
-	"pariteMarche":"49561",
-	"id": "b79f2a3f-3c66-4fd4-9102-410e9a05",
-	"horaireOrigine":"2020-04-05T13:02:00.000Z",
-	"horaireDestination":"2020-04-06T06:05:00.000Z",
-	"codeUi":2170,
-	"codeTct":"FMC",
-	"lieuOrigine":{
-		"crcich":"0087;785006;PF",
-		"libPr":"Cerbère Poste F"
-		},
-	"lieuDestination":{
-		"crcich":"0087;781088;00",
-		"libPr":"Forbach Voyageurs"
-		},
-	"metadata":{
-		"idVersion":3,
-		"dateHeureMaj":"2020-04-15T06:33:50.159Z"
-		}
-	}
-]}
-
-					
-							
+[
+{
+  "codeReseau": "0087",
+  "numeroMarche": "49210",
+  "varSillon": "120424650051",
+  "pariteMarche": "49210",
+  "codeUi": 2170,
+  "codeTct": "FMC",
+  "dateCirculation": "2020-07-15",
+  "id": "b79f2a3f-3c66-4fd4-8c31-410e9a056c19",
+  "horaireOrigine": "2020-04-05T13:02:00.000Z",
+  "horaireDestination": "2020-04-06T06:05:00.000Z",
+  "horaireMaj": "2020-03-11T06:33:50.166Z",
+  "lieuOrigine": {
+    "crcich": "0087;785006;PF",
+    "libPr": "Cerbère Poste F"
+  },
+  "lieuDestination": {
+    "crcich": "0087;193003;BV",
+    "libPr": "Forbach Bâtiment Voyageurs"
+  },
+  "metadata": {
+    "idVersion": 3,
+    "dateHeureMaj": "2020-03-11T06:33:50.159Z"
+  }
+},
+{
+  "codeReseau": "0097",
+  "numeroMarche": "49211",
+  "varSillon": "120424650051",
+  "pariteMarche": "49211",
+  "codeUi": 2173,
+  "codeTct": "FTC",
+  "dateCirculation": "2020-07-05",
+  "id": "z76f2a3f-3a23-4fd4-8c31-410e9a056b99",
+  "horaireOrigine": "2020-04-05T13:02:00.000Z",
+  "horaireDestination": "2020-04-06T06:05:00.000Z",
+  "horaireMaj": "2020-03-11T06:33:50.166Z",
+  "lieuOrigine": {
+    "crcich": "0087;785006;PF",
+    "libPr": "Cerbère Poste F"
+  },
+  "lieuDestination": {
+    "crcich": "0087;193003;BV",
+    "libPr": "Forbach Bâtiment Voyageurs"
+  },
+  "metadata": {
+    "idVersion": 3,
+    "dateHeureMaj": "2020-03-11T06:33:50.159Z"
+  }
+]
+	

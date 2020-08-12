@@ -2,7 +2,6 @@
 {
   "codeReseau": "0087",
   "numeroMarche": "49210",
-  "varSillon": "120424650051",
   "pariteMarche": "49210",
   "codeUi": 2170,
   "codeTct": "FMC",
@@ -20,14 +19,12 @@
     "libPr": "Forbach Bâtiment Voyageurs"
   },
   "metadata": {
-    "idVersion": 3,
     "dateHeureMaj": "2020-03-11T06:33:50.159Z"
   }
 },
 {
   "codeReseau": "0097",
   "numeroMarche": "49211",
-  "varSillon": "120424650051",
   "pariteMarche": "49211",
   "codeUi": 2173,
   "codeTct": "FTC",
@@ -45,7 +42,6 @@
     "libPr": "Forbach Bâtiment Voyageurs"
   },
   "metadata": {
-    "idVersion": 3,
     "dateHeureMaj": "2020-03-11T06:33:50.159Z"
   }
   }

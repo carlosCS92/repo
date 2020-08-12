@@ -22,29 +22,6 @@
   "metadata": {
     "dateHeureMaj": "2020-03-11T06:33:50.159Z"
   }
-},
-{
-  "codeReseau": "0097",
-  "numeroMarche": "49211",
-  "pariteMarche": "49211",
-  "codeUi": 2173,
-  "codeTct": "FTC",
-  "dateCirculation": "2020-07-05",
-  "id": "z76f2a3f-3a23-4fd4-8c31-410e9a056b99",
-  "horaireOrigine": "2020-04-05T13:02:00.000Z",
-  "horaireDestination": "2020-04-06T06:05:00.000Z",
-  "horaireMaj": "2020-03-11T06:33:50.166Z",
-  "lieuOrigine": {
-    "crcich": "0087;785006;PF",
-    "libPr": "Cerbère Poste F"
-  },
-  "lieuDestination": {
-    "crcich": "0087;193003;BV",
-    "libPr": "Forbach Bâtiment Voyageurs"
-  },
-  "metadata": {
-    "dateHeureMaj": "2020-03-11T06:33:50.159Z"
-  }
-  }
+}
 ]
 }
